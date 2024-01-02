@@ -1,0 +1,14 @@
+*{
+    padding: 10px;
+}
+.backg-color{
+    background-color: aqua;
+    color: rgb(67, 5, 17);
+}
+.padding{
+    padding: 15px;
+}
+.first{
+    background-color: springgreen;
+    color: darkblue;
+}
