@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div p{
+    height: 600px;
+}
+.firest-section{
+    background-color: antiquewhite;
+}
+.second-section{
+    background-color: lightgreen;
+}
+.thired-section{
+    background-color: lightblue;
+}
