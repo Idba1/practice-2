@@ -1,0 +1,12 @@
+h3{
+    font-size: large ;
+    font-style: italic;
+    color: midnightblue;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.paragraph{
+    color: firebrick;
+    text-align: justify;
+}
